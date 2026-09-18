@@ -1,3 +1,3 @@
-# minigolf_game
-
+## minigolf_game
+---
 using a udemy course
